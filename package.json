@@ -1,0 +1,14 @@
+{
+  "name": "favicon",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Franky Lau (killalau1988@hotmail.com)",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-real-favicon": "^0.2.1"
+  }
+}
